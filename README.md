@@ -1,9 +1,12 @@
 # Hello I'm Petar from Ohrid, Macedonia! 👋
-## [Front-End Developer](https://github.com/PetarMacedon)
-### Cardio is great, but have you tried a coding marathon?! 💻🏃
-# About:
-- 🔭 Currently working on learning JavaScript and preparing to learn React after that. I recently completed my first web project using HTML, CSS, and Bootstrap, so I'm excited to continue building my skills...
-- 🌱 Currently learning JavaScript, which I know will be an important skill for building more interactive and dynamic websites. After I feel comfortable with JavaScript, I plan to learn React, which is a popular framework for building user interfaces...
+# [Front-End Developer](https://github.com/PetarMacedon)
+## About:
+- 🔭 Currently working on:
+  - JavaScript and preparing to learn React after that
+  - Recently completed my first web project using HTML, CSS, and Bootstrap
+  - Excited to continue building my skills
+- 🌱 Currently learning:
+  -  JavaScript, important skill for building more interactive and dynamic websites. After I feel comfortable with JavaScript, I plan to learn React, which is a popular framework for building user interfaces...
 - 👯 Looking to collaborate on projects or contribute to open source projects in the future, but since I'm still learning, I want to continue building my skills first. Once I feel more comfortable with JavaScript and React, I'll be better equipped to work with others and contribute to meaningful projects...
 - 🤔 Looking for help with finding mentors or more experienced developers who can guide me and offer feedback on my projects. Collaborating with others and receiving constructive criticism will help me grow as a developer and overcome obstacles more effectively, but everything which I have learnt till now I'm very okay with that...
 - 💬 Ask me about my experiences:
