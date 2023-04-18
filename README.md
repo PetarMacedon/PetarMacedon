@@ -1,4 +1,4 @@
-## Hello I'm Petar from Ohrid, Macedonia! 👋
+# Hello I'm Petar from Ohrid, Macedonia! 👋
 # [Front-End Developer](https://github.com/PetarMacedon)
 ## About:
 - 🔭 Currently working on:
