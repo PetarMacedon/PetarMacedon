@@ -26,4 +26,4 @@
   - When I start coding, I feel like I'm transported out of this world and into the digital matrix. It's like I'm Neo from The Matrix, except instead of dodging bullets, I'm dodging bugs and syntax errors. And as I work on creating cool web applications, I have a vision and concept to innovate the programming world in new and exciting ways, helping others through technology
 ## Front-End projects
 - ### HTML, CSS, Bootsrtap
-  - #### [First static web project](https://github.com/PetarMacedon/FirstProject-HTML-CSS-BOOTSTRAP)
+  - ### [First static web project](https://github.com/PetarMacedon/FirstProject-HTML-CSS-BOOTSTRAP)
