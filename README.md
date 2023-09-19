@@ -2,11 +2,10 @@
 # [Front-End Developer](https://github.com/PetarMacedon)
 ## About
 ### 🔭 Currently working on
-  - JavaScript and preparing to learn React after that
+  - JavaScript
   - Recently completed my first web project using HTML, CSS, and Bootstrap
 ### 🌱 Currently learning
   - JavaScript, for building more interactive and dynamic websites
-  - After JavaScript, I will countinue to learn React
 ### 👯 Looking to collaborate on
   - Projects or contribute to open source projects in the future
   - Equipped to work with others and contribute to meaningful projects
