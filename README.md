@@ -17,7 +17,7 @@
   - HTML
   - CSS
   - Bootstrap
-  - JavaScript
+  - JavaScript (still learning)
   - My first web project and other small web projects and excersises
   - I can also share my perspective on the importance of communication engineering in web development
 ### ⚡ Fun fact
