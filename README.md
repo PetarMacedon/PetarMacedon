@@ -3,7 +3,6 @@
 ## About
 ### 🔭 Currently working on
   - JavaScript
-  - Recently completed my first web project using HTML, CSS, and Bootstrap
 ### 🌱 Currently learning
   - JavaScript, for building more interactive and dynamic websites
 ### 👯 Looking to collaborate on
@@ -17,8 +16,8 @@
   - HTML
   - CSS
   - Bootstrap
-  - JavaScript (still learning)
-  - My first web project and other small web projects and excersises
+  - JavaScript
+  - My first web project and other web projects and excersises
   - I can also share my perspective on the importance of communication engineering in web development
 ### ⚡ Fun fact
   - With coding, I feel like I'm transported out of this world and into the digital matrix.
