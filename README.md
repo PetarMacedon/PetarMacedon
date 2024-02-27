@@ -2,7 +2,7 @@
 # [Front-End Developer](https://github.com/PetarMacedon)
 ## About
 ### 🔭 Currently working on
-  - JavaScript
+  - JavaScript project
 ### 🌱 Currently learning
   - JavaScript, for building more interactive and dynamic websites
 ### 👯 Looking to collaborate on
@@ -16,6 +16,7 @@
   - HTML
   - CSS
   - Bootstrap
+  - Git
   - JavaScript
   - My first web project and other web projects and excersises
   - I can also share my perspective on the importance of communication engineering in web development
