@@ -23,4 +23,5 @@
 ### ⚡ Fun fact
   - With coding, I feel like I'm transported out of this world and into the digital matrix.
 ## Front-End projects
-- [First Static Web Project](https://github.com/PetarMacedon/First-Static-Web-Project-HTML-CSS-Bootstrap) – HTML, CSS, Bootstrap [Live Demo](https://petarmacedon.github.io/First-Static-Web-Project-HTML-CSS-Bootstrap/)
+- [First Static Web Project](https://github.com/PetarMacedon/First-Static-Web-Project-HTML-CSS-Bootstrap) – HTML, CSS, Bootstrap [Live Demo](https://petarmacedon.github.io/First-Static-Web-Project)
+
