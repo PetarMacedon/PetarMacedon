@@ -2,9 +2,9 @@
 # [Front-End Developer](https://github.com/PetarMacedon)
 ## About
 ### 🔭 Currently working on
-  - JavaScript project
+  - JavaScript excersises
 ### 🌱 Currently learning
-  - React, Javascript library
+  - Javascript
 ### 👯 Looking to collaborate on
   - Projects or contribute to open source projects in the future
   - Equipped to work with others and contribute to meaningful projects
