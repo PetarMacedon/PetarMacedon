@@ -2,9 +2,9 @@
 # [Front-End Developer](https://github.com/PetarMacedon)
 ## About
 ### 🔭 Currently working on
-  - JavaScript excersises
+  - JavaScript exercises
 ### 🌱 Currently learning
-  - Javascript
+  - JavaScript
 ### 👯 Looking to collaborate on
   - Projects or contribute to open source projects in the future
   - Equipped to work with others and contribute to meaningful projects
@@ -18,10 +18,9 @@
   - Bootstrap
   - Git
   - JavaScript
-  - My first static web project and other web projects and excersises
+  - My first static web project and other web projects and exercises
   - I can also share my perspective on the importance of communication engineering in web development
 ### ⚡ Fun fact
   - With coding, I feel like I'm transported out of this world and into the digital matrix.
-## Front-End projects
-- ### HTML, CSS, Bootsrtap
-  - ### [First static web project](https://github.com/PetarMacedon/FirstProject-HTML-CSS-BOOTSTRAP)
+### Front-End projects
+- [First Static Web Project](https://github.com/PetarMacedon/First-Static-Web-Project-HTML-CSS-Bootstrap) – HTML, CSS, Bootstrap [Live Demo](https://petarmacedon.github.io/First-Static-Web-Project-HTML-CSS-Bootstrap/)
